@@ -1,0 +1,5 @@
+cd "exo 1"
+cd view
+python Main.py
+
+NB: You have to use the "cmd"
